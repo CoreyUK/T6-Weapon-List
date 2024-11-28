@@ -1,0 +1,7 @@
+self takeallweapons();
+self getcurrentweapon();
+self getcurrentweaponaltweapon();
+self getcurrentoffhand();
+self isusingoffhand();
+self hasweapon("weapon_name");
+self giveWeapon("weapon_name");
